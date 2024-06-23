@@ -38,6 +38,7 @@ I'm a passionate Full Stack Developer with experience in various technologies. I
 - **Email:** kalpeshborse105@gmail.com
 - **LinkedIn:** [Kalpesh Borse](https://www.linkedin.com/in/kalpeshborse)
 - **GitHub:** [kalpeshborse105](https://github.com/kalpeshborse105)
+- **Contact:** +91 7020210543
 
 ## ✨ Highlights
 
@@ -49,7 +50,7 @@ I'm a passionate Full Stack Developer with experience in various technologies. I
 
 - **Web Developer Training** - NSDC And Global Reach Skill Training India Pvt. Ltd (Jan 2022 - May 2022)
 - **IBM Certificate of Python for Web Development** - Powered by IBM Developer Skills Network (Jun 2023)
-- **Master in Full Stack Web Developer With AWS Certification** - IT Vedant Institute, Pune (Mar 2023 - June 2024)
+- **Master in Full Stack Web Developer With AWS** - IT Vedant Institute, Pune (Mar 2023 - June 2024)
 
 ## 📝 License
 
