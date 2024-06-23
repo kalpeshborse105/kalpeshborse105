@@ -15,7 +15,6 @@ I'm a passionate Full Stack Developer with experience in various technologies. I
 
 ## 📈 GitHub Stats
 
-![Kalpesh Borse's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalpeshborse105&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalpeshborse105&layout=compact&theme=radical)
 
 ## 🛠️ Projects
